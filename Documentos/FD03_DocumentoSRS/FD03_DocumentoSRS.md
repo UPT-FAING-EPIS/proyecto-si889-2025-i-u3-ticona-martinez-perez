@@ -1,4 +1,4 @@
-﻿![C:\Users\EPIS\Documents\upt.png](Aspose.Words.349abab4-20b4-4c66-bfab-ab688e2c42a1.001.png)
+﻿![C:\Users\EPIS\Documents\upt.png](Aspose.Words.7645f019-ed67-44bb-be5d-b1a134a33a4d.001.png)
 
 **UNIVERSIDAD PRIVADA DE TACNA**
 
@@ -172,7 +172,7 @@ Posicionarnos como la empresa líder en la región, ofreciendo servicios y soluc
 
 ![Texto, Chat o mensaje de texto
 
-Descripción generada automáticamente](Aspose.Words.349abab4-20b4-4c66-bfab-ab688e2c42a1.002.png)
+Descripción generada automáticamente](Aspose.Words.7645f019-ed67-44bb-be5d-b1a134a33a4d.002.png)
 
 *Fuente: Sacado de la página de Tech Solutions*
 # <a name="_toc181265377"></a>**II. Visionamiento de la Empresa**
@@ -221,23 +221,23 @@ Es una técnica de muy buena utilidad porque permite prepararse e informarse ace
 
 **Página Web de la Empresa Tech Solutions**
 
-![](Aspose.Words.349abab4-20b4-4c66-bfab-ab688e2c42a1.003.png)
+![](Aspose.Words.7645f019-ed67-44bb-be5d-b1a134a33a4d.003.png)
 
 ![Interfaz de usuario gráfica, Texto, Sitio web
 
-Descripción generada automáticamente](Aspose.Words.349abab4-20b4-4c66-bfab-ab688e2c42a1.004.png) ![Interfaz de usuario gráfica, Sitio web
+Descripción generada automáticamente](Aspose.Words.7645f019-ed67-44bb-be5d-b1a134a33a4d.004.png) ![Interfaz de usuario gráfica, Sitio web
 
-Descripción generada automáticamente](Aspose.Words.349abab4-20b4-4c66-bfab-ab688e2c42a1.005.png)
+Descripción generada automáticamente](Aspose.Words.7645f019-ed67-44bb-be5d-b1a134a33a4d.005.png)
 
 ![Interfaz de usuario gráfica, Aplicación, Word
 
-Descripción generada automáticamente](Aspose.Words.349abab4-20b4-4c66-bfab-ab688e2c42a1.006.png)
+Descripción generada automáticamente](Aspose.Words.7645f019-ed67-44bb-be5d-b1a134a33a4d.006.png)
 
 **Página de Ubicación de la Empresa Tech Solutions**
 
 ![Interfaz de usuario gráfica, Sitio web
 
-Descripción generada automáticamente](Aspose.Words.349abab4-20b4-4c66-bfab-ab688e2c42a1.007.png)
+Descripción generada automáticamente](Aspose.Words.7645f019-ed67-44bb-be5d-b1a134a33a4d.007.png)
 
 # <a name="_toc181265385"></a>**III.  Análisis de Procesos**
 ## <a name="_toc181265386"></a>**a) Diagrama del Proceso Actual – Diagrama de actividades**
@@ -245,7 +245,7 @@ Descripción generada automáticamente](Aspose.Words.349abab4-20b4-4c66-bfab-ab6
 
 ![Diagrama
 
-Descripción generada automáticamente](Aspose.Words.349abab4-20b4-4c66-bfab-ab688e2c42a1.008.png)
+Descripción generada automáticamente](Aspose.Words.7645f019-ed67-44bb-be5d-b1a134a33a4d.008.png)
 
 Fuente: Elaboración Propia
 ## <a name="_toc181265387"></a>**b) Diagrama del Proceso Propuesto – Diagrama de actividades Inicial**
@@ -253,7 +253,7 @@ Fuente: Elaboración Propia
 
 ![Diagrama
 
-Descripción generada automáticamente](Aspose.Words.349abab4-20b4-4c66-bfab-ab688e2c42a1.009.png)
+Descripción generada automáticamente](Aspose.Words.7645f019-ed67-44bb-be5d-b1a134a33a4d.009.png)
 
 Fuente: Elaboración Propia
 # <a name="_toc181265388"></a>**IV Especificación de Requerimientos de Software**
@@ -359,13 +359,13 @@ Fuente: Elaboración Propia
 
 ![Diagrama
 
-Descripción generada automáticamente](Aspose.Words.349abab4-20b4-4c66-bfab-ab688e2c42a1.010.png)
+Descripción generada automáticamente](Aspose.Words.7645f019-ed67-44bb-be5d-b1a134a33a4d.010.png)
 
 *Fuente: Elaboración Propia*
 ## <a name="_toc181265396"></a>**a) Diagrama de Paquetes**
 *Figura 5: Diagrama de Paquetes con los Módulos del Sistema Web Inventario*
 
-![](Aspose.Words.349abab4-20b4-4c66-bfab-ab688e2c42a1.011.png)
+![](Aspose.Words.7645f019-ed67-44bb-be5d-b1a134a33a4d.011.png)
 
 *Fuente: Elaboración Propia*
 
@@ -376,11 +376,11 @@ Este diagrama de paquetes organiza de manera clara los módulos del sistema, div
 
 ![Diagrama, Esquemático
 
-Descripción generada automáticamente](Aspose.Words.349abab4-20b4-4c66-bfab-ab688e2c42a1.012.png)
+Descripción generada automáticamente](Aspose.Words.7645f019-ed67-44bb-be5d-b1a134a33a4d.012.png)
 
 *Fuente: Elaboración Propia*
 
-![](Aspose.Words.349abab4-20b4-4c66-bfab-ab688e2c42a1.013.png)
+![](Aspose.Words.7645f019-ed67-44bb-be5d-b1a134a33a4d.013.png)
 
 ## <a name="_toc181265398"></a>**c) Escenarios de Caso de Uso (narrativa)**
 <a name="_hlk163892707"></a>Modulo Iniciar Sesión:
@@ -388,7 +388,7 @@ Descripción generada automáticamente](Aspose.Words.349abab4-20b4-4c66-bfab-ab6
 |**Caso de Uso**|**Iniciar Sesión**|
 | :- | :-: |
 |**Tipo**|Básico|
-|**Descripción**|El usuario debe ingresar su DNI y contraseña para acceder al sistema. No se permite el registro de nuevos usuarios desde esta interfaz, ya que el acceso está destinado exclusivamente al personal autorizado de la municipalidad. Si el usuario ya está logueado y no ha cerrado su sesión anterior, no podrá acceder nuevamente a la pantalla de inicio de sesión hasta que cierre sesión. En caso de no ingresar correctamente los datos, se mostrarán mensajes de error..|
+|**Descripción**|El usuario debe ingresar su correo y contraseña para acceder al sistema. No se permite el registro de nuevos usuarios desde esta interfaz, ya que el acceso está destinado exclusivamente al personal autorizado de la municipalidad. Si el usuario ya está logueado y no ha cerrado su sesión anterior, no podrá acceder nuevamente a la pantalla de inicio de sesión hasta que cierre sesión. En caso de no ingresar correctamente los datos, se mostrarán mensajes de error..|
 |**Actores**|Usuario|
 |**Precondiciones**|<p>El usuario debe estar registrado previamente en el sistema.</p><p></p><p>Debe mostrarse la pantalla de inicio de sesión al intentar ingresar al sistema, siempre que el usuario no esté ya logueado.</p>|
 |**Post condiciones**|<p>El usuario es redirigido a la página principal (Home) si la autenticación es correcta.</p><p></p><p>Si los datos no son válidos, se muestra un mensaje de error.</p>|
@@ -492,31 +492,93 @@ Descripción generada automáticamente](Aspose.Words.349abab4-20b4-4c66-bfab-ab6
 |***PROTOTIPO INICIO DE SESION***||
 |||
 
-|**Caso de Uso**|Generación de UML|
-| :- | :-: |
-|**Tipo**|Primario|
-|**Descripción**|Convierte automáticamente el código pegado en un diagrama UML con una vista previa en tiempo real.|
-|**Actores**|Usuario|
-|**Precondiciones**|El usuario debe haber ingresado código fuente válido en la plataforma.|
-|**Post condiciones**|Se muestra un diagrama UML generado en tiempo real en la interfaz.|
-|***Flujo normal de eventos Validar Usuario***||
-|**Acción del actor**|**Respuesta del sistema**|
-|El usuario pega código en la interfaz.|El sistema analiza el código e identifica las estructuras UML correspondientes.|
-|El usuario selecciona el tipo de diagrama UML deseado.|El sistema genera el diagrama UML y lo muestra en tiempo real.|
-|El usuario visualiza el diagrama y puede realizar ediciones adicionales.|El sistema permite la edición y personalización del diagrama generado.|
+**Generación de UML:**
 
 |**Caso de Uso**|Generación de UML|
 | :- | :-: |
-|**Tipo**|Primario|
-|**Descripción**|Convierte automáticamente el código pegado en un diagrama UML con una vista previa en tiempo real.|
+|**Tipo**|Basico|
+|**Descripción**|El usuario puede generar diferentes tipos de diagramas UML (clases, casos de uso y secuencia) a partir del código fuente o desde archivos estructurados en formatos JSON o YAML. Esta funcionalidad está dirigida a facilitar la visualización y documentación de los sistemas desarrollados por el personal técnico de la empresa. La generación se hace automáticamente al cargar el archivo o seleccionar la opción correspondiente, y se muestran en una interfaz gráfica interactiva.|
 |**Actores**|Usuario|
 |**Precondiciones**|El usuario debe haber ingresado código fuente válido en la plataforma.|
 |**Post condiciones**|Se muestra un diagrama UML generado en tiempo real en la interfaz.|
-|***Flujo normal de eventos Validar Usuario***||
+|***Flujo Normal de Eventos – Generar Diagrama UML***||
 |**Acción del actor**|**Respuesta del sistema**|
-|El usuario pega código en la interfaz.|El sistema analiza el código e identifica las estructuras UML correspondientes.|
-|El usuario selecciona el tipo de diagrama UML deseado.|El sistema genera el diagrama UML y lo muestra en tiempo real.|
-|El usuario visualiza el diagrama y puede realizar ediciones adicionales.|El sistema permite la edición y personalización del diagrama generado.|
+|1\. El usuario accede al módulo "Generación UML" desde el menú principal.|2\. El sistema muestra una interfaz gráfica con opciones para: "Cargar ZIP", "Importar link github" y "Seleccionar tipo de diagrama a generar".|
+|3\. El usuario carga un archivo de código fuente o importa un archivo zip.|4\. El sistema verifica la validez del archivo cargado.|
+|5\. El usuario selecciona el tipo de diagrama a generar (Clases, Casos de Uso o Secuencia).|6\. El sistema procesa el archivo y analiza el contenido según el tipo seleccionado.|
+|7\. El sistema genera el diagrama UML correspondiente.|8\. Se muestra en pantalla el diagrama con opciones para hacer zoom, guardar o descargar.|
+|***Flujo Alternativo A-1 – Archivo No Válido***||
+|**Acción del actor**|**Respuesta del sistema**|
+|1\. El usuario carga un archivo que no cumple con el formato válido.|2\. El sistema muestra el mensaje: "El archivo seleccionado no es válido o no es compatible. Por favor verifique el formato".|
+|***Flujo de Excepción E-1 – Error interno durante el procesamiento***||
+|**Acción del actor**|**Respuesta del sistema**|
+|1\. El usuario carga el archivo y selecciona el tipo de diagrama, pero ocurre un error interno en el procesamiento.|2\. El sistema muestra el mensaje: "Ocurrió un error durante la generación del diagrama. Intente nuevamente o contacte con soporte técnico".|
+
+**Colaboración en Diagramas UML:**
+
+|**Caso de Uso**|Colaboración en Diagramas UML|
+| :- | :-: |
+|**Tipo**|Primario|
+|**Descripción**|El sistema permite que múltiples usuarios trabajen simultáneamente sobre un mismo diagrama UML en tiempo real. Cada usuario podrá realizar modificaciones mientras visualiza los cambios efectuados por los demás colaboradores. Para facilitar la identificación de las ediciones, cada usuario es representado por un color distinto asignado automáticamente por el sistema.|
+|**Actores**|Usuario|
+|**Precondiciones**|Todos los usuarios deben haber iniciado sesión.<br><br>Deben tener acceso al mismo diagrama compartido.<br><br>El sistema debe tener habilitado el módulo de colaboración en tiempo real.|
+|**Post condiciones**|El diagrama es actualizado en tiempo real para todos los participantes.|
+|***Flujo Normal de Eventos – Colaborar en Diagrama UML***||
+|**Acción del actor**|**Respuesta del sistema**|
+|1\. El primer usuario abre un diagrama UML desde el módulo correspondiente.|2\. El sistema carga el diagrama en modo de edición e inicia una sesión colaborativa.|
+|3\. Otro usuario accede al mismo diagrama.|4\. El sistema une al nuevo usuario a la sesión de colaboración activa y asigna un color distintivo.|
+|5\. Cada usuario comienza a realizar ediciones (renombrar elementos del diagrama).|6\. El sistema actualiza en tiempo real los cambios y los sincroniza para todos los participantes.|
+| |7\. El diagrama se guarda periódicamente y puede ser descargado por cualquiera de los participantes.|
+|***Flujo Alternativo A-1 – Usuario se desconecta durante la edición***||
+|**Acción del actor**|**Respuesta del sistema**|
+|1\. Uno de los usuarios pierde conexión o cierra el navegador.|2\. El sistema guarda automáticamente los cambios realizados por dicho usuario y notifica a los demás que se ha desconectado.|
+|***Flujo de Excepción E-1 – Fallo en sincronización en tiempo real***||
+|**Acción del actor**|**Respuesta del sistema**|
+|1\. El sistema detecta una pérdida de sincronización entre los usuarios.|2\. Muestra un mensaje: "Problemas de conexión detectados. Se intentará reestablecer la sincronización automática".|
+
+**Integración con Repositorios Git:**
+
+|**Caso de Uso**|Integración con Repositorios Git|
+| :- | :-: |
+|**Tipo**|Basico|
+|**Descripción**|El sistema permite al usuario integrar proyectos alojados en repositorios Git a través de un enlace de descarga directa (ZIP). Al proporcionar el enlace del repositorio (por ejemplo, un archivo comprimido de GitHub), el sistema analiza automáticamente los archivos del código fuente contenidos en el ZIP y genera los diagramas UML correspondientes (clases, casos de uso o secuencia). Esta funcionalidad está orientada a facilitar la documentación de proyectos externos o en desarrollo alojados en plataformas de control de versiones.|
+|**Actores**|Usuario|
+|**Precondiciones**|El enlace ZIP del repositorio debe estar disponible y contener código fuente compatible.|
+|**Post condiciones**|El sistema descarga y analiza el contenido del repositorio.<br><br>Se generan y muestran los diagramas UML correspondientes.|
+|***Flujo Normal de Eventos – Integrar con Repositorio Git***||
+|**Acción del actor**|**Respuesta del sistema**|
+|1\. El usuario accede al módulo "Integración con Git". |2\. El sistema muestra una interfaz con un campo para ingresar el enlace del archivo ZIP del repositorio.|
+|3\. El usuario pega el enlace del archivo ZIP (por ejemplo, desde GitHub). |4\. El sistema valida que el enlace sea accesible y que apunte a un archivo ZIP.|
+|5\. El usuario confirma la acción con el botón "Importar Repositorio".|6\. El sistema descarga el archivo ZIP, lo descomprime y analiza los archivos de código fuente.|
+|7\. El sistema detecta los cambios recientes en el código fuente y genera automáticamente los diagramas UML correspondientes.|8\. Se muestran los diagramas generados en pantalla con opciones para visualizarlos, editarlos o guardarlos.|
+|***Flujo Alternativo A-1 – Enlace no válido***||
+|**Acción del actor**|**Respuesta del sistema**|
+|1\. El usuario ingresa un enlace que no corresponde a un archivo ZIP o no es accesible.|2\. El sistema muestra el mensaje: "El enlace proporcionado no es válido o no se puede acceder al archivo ZIP. Verifique el formato o los permisos del repositorio."|
+|***Flujo de Excepción E-1 – Fallo en la descarga del ZIP***||
+|**Acción del actor**|**Respuesta del sistema**|
+|1\. El sistema no puede descargar el archivo ZIP por problemas de red o servidor. |2\. Muestra el mensaje: "No se pudo completar la descarga del repositorio. Intente nuevamente más tarde."|
+
+**Extender Plataforma para Nuevos Lenguajes:**
+
+|**Caso de Uso**|Extender Plataforma para Nuevos Lenguajes|
+| :- | :-: |
+|**Tipo**|Basico|
+|**Descripción**|El sistema permite seleccionar el lenguaje de programación en el que está escrito el código fuente a analizar para generar los diagramas UML. Actualmente, se encuentran disponibles lenguajes como C#, Java, Python y Visual Basic. Esta capacidad de extensibilidad está diseñada para que, mediante la creación o integración de plugins, se puedan añadir nuevos lenguajes de programación en el futuro. El sistema detecta el lenguaje seleccionado y aplica las reglas de análisis sintáctico correspondientes para interpretar el código correctamente.|
+|**Actores**|Usuario|
+|**Precondiciones**|Debe estar en el proceso de generación de un diagrama UML a partir de código fuente.<br><br>El sistema debe tener disponibles los plugins para los lenguajes soportados.|
+|**Post condiciones**|El código fuente es procesado de acuerdo al lenguaje seleccionado.<br><br>Se genera el diagrama UML correspondiente al análisis realizado.<br><br>El sistema queda preparado para admitir nuevos plugins que amplíen la compatibilidad con más lenguajes en el futuro.|
+|***Flujo Normal de Eventos – Seleccionar Lenguaje para Análisis***||
+|**Acción del actor**|**Respuesta del sistema**|
+|1\. El usuario accede al módulo de generación de diagramas UML. |2\. El sistema muestra una opción desplegable para seleccionar el lenguaje de programación (C#, Java y Python).|
+|3\. El usuario selecciona el lenguaje correspondiente al código fuente cargado. |4\. El sistema activa el analizador correspondiente al lenguaje seleccionado mediante su plugin.|
+|5\. El usuario carga el archivo de código fuente. |6\. El sistema analiza el código usando el plugin del lenguaje seleccionado y genera el diagrama UML.|
+|7\. Se muestra en pantalla el diagrama generado. |8\. El usuario puede visualizar, editar o guardar el diagrama.|
+|***Flujo Alternativo A-1 – El lenguaje seleccionado no es compatible con el archivo cargado***||
+|**Acción del actor**|**Respuesta del sistema**|
+|1\. El usuario selecciona un lenguaje incorrecto para el archivo cargado (por ejemplo, selecciona C# pero sube código Python). |2\. El sistema muestra el mensaje: "El contenido del archivo no corresponde al lenguaje seleccionado. Verifique e intente nuevamente."|
+|***Flujo de Excepción E-1 – Plugin no disponible o con error***||
+|**Acción del actor**|**Respuesta del sistema**|
+|1\. El usuario selecciona un lenguaje, pero el plugin necesario no está disponible o presenta un error. |2\. El sistema muestra el mensaje: "El lenguaje seleccionado no está soportado actualmente. Contacte al administrador o verifique la disponibilidad del plugin."|
 
 
 # <a name="_toc181265399"></a>**3. Modelo Lógico**
@@ -525,25 +587,25 @@ Descripción generada automáticamente](Aspose.Words.349abab4-20b4-4c66-bfab-ab6
 
 ![Diagrama
 
-Descripción generada automáticamente con confianza media](Aspose.Words.349abab4-20b4-4c66-bfab-ab688e2c42a1.014.png)
+Descripción generada automáticamente con confianza media](Aspose.Words.7645f019-ed67-44bb-be5d-b1a134a33a4d.014.png)
 
 *Fuente: Elaboración Propia*
 ## <a name="_toc181265401"></a>**b) Diagrama de Entidad-Relación**
 *Figura 32: Diagrama de Entidad-Relación acerca de la Base de Datos BD\_Sistema del Proyecto*
 
-![](Aspose.Words.349abab4-20b4-4c66-bfab-ab688e2c42a1.015.png)
+![](Aspose.Words.7645f019-ed67-44bb-be5d-b1a134a33a4d.015.png)
 
 Fuente: Elaboración Propia
 
 Este diagrama ER representa las entidades y relaciones clave del "Sistema Web de Gestión de Inventario y Elaboración de Informes Técnicos". A continuación, se describen las principales entidades y su propósito dentro del sistema
 ## <a name="_toc181265402"></a>**c) Diagrama de Secuencia**
-*Figura 33: Diagrama de Secuencia de Generación UML ![](Aspose.Words.349abab4-20b4-4c66-bfab-ab688e2c42a1.016.png)*
+*Figura 33: Diagrama de Secuencia de Generación UML ![](Aspose.Words.7645f019-ed67-44bb-be5d-b1a134a33a4d.016.png)*
 
 *Fuente: Elaboración Propia*
 ## <a name="_toc181265403"></a>**d) Diagrama de Clases**
 *Figura 46: Diagrama de Clases del Sistema Web Inventario*
 
-![](Aspose.Words.349abab4-20b4-4c66-bfab-ab688e2c42a1.017.png)
+![](Aspose.Words.7645f019-ed67-44bb-be5d-b1a134a33a4d.017.png)
 
 *Fuente: Elaboración Propia*
 
