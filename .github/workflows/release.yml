@@ -26,6 +26,14 @@ jobs:
         run: |
           python -m build
 
+      - name: Publish to GitHub Packages
+        env:
+          TWINE_USERNAME: __token__
+          TWINE_PASSWORD: ${{ secrets.GITHUB_TOKEN }}
+          TWINE_REPOSITORY_URL: https://upload.pypi.org/legacy/
+        run: |
+          twine upload dist/* --verbose
+
       - name: Generate Release ZIP
         run: |
           zip -r release.zip . -x '*.git*' '*.github*' 'dist/*' 'build/*' '*.egg-info/*' '__pycache__/*'
