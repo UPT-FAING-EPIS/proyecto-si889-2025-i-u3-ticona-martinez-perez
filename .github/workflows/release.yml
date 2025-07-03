@@ -30,9 +30,8 @@ jobs:
         env:
           TWINE_USERNAME: __token__
           TWINE_PASSWORD: ${{ secrets.GITHUB_TOKEN }}
-          TWINE_REPOSITORY_URL: https://upload.pypi.org/legacy/
         run: |
-          twine upload dist/* --verbose
+          twine upload --repository-url https://upload.github.com/OWNER/REPO/packages/legacy/ --verbose dist/*
 
       - name: Generate Release ZIP
         run: |
