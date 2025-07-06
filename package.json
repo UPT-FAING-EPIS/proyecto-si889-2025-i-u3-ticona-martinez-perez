@@ -1,0 +1,20 @@
+{
+  "name": "@proyecto-si889-2025-i-u3-ticona-martinez-perez/ui-components",
+  "version": "1.0.0",
+  "description": "Componentes UI para el proyecto SI889",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/proyecto-si889-2025-i-u3-ticona-martinez-perez/proyecto-si889-2025-i-u3-ticona-martinez-perez.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "keywords": ["react", "ui", "components", "si889"],
+  "author": "Proyecto SI889 Team",
+  "license": "MIT"
+}

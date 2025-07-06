@@ -1,8 +1,21 @@
 {
-  "name": "mi-proyecto-react",
-  "private": true,
-  "version": "0.0.0",
+  "name": "@jhonticonachambi/ui-kit-proyecto",
+  "private": false,
+  "version": "1.0.0",
   "type": "module",
+  "description": "UI Kit de componentes React reutilizables - Proyecto SI889",
+  "main": "src/package-index.js",
+  "files": [
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/proyecto-si889-2025-i-u3-ticona-martinez-perez/proyecto-si889-2025-i-u3-ticona-martinez-perez.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "access": "public"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
