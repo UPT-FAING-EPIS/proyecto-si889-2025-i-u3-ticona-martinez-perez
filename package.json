@@ -1,5 +1,5 @@
 {
-  "name": "@proyecto-si889-2025-i-u3-ticona-martinez-perez/ui-components",
+  "name": "@upt-faing-epis/ui-components",
   "version": "1.0.0",
   "description": "Componentes UI para el proyecto SI889",
   "main": "index.js",
@@ -9,7 +9,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/proyecto-si889-2025-i-u3-ticona-martinez-perez/proyecto-si889-2025-i-u3-ticona-martinez-perez.git"
+    "url": "git+https://github.com/UPT-FAING-EPIS/proyecto-si889-2025-i-u3-ticona-martinez-perez.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"

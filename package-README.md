@@ -1,4 +1,4 @@
-# @proyecto-si889-2025-i-u3-ticona-martinez-perez/ui-components
+# @upt-faing-epis/ui-components
 
 Componentes UI para el Proyecto SI889 - 2025-I
 
@@ -12,12 +12,12 @@ Sistema de Gestión UML y Diagramas - Componentes reutilizables
 
 ## Instalación
 ```bash
-npm install @proyecto-si889-2025-i-u3-ticona-martinez-perez/ui-components
+npm install @upt-faing-epis/ui-components
 ```
 
 ## Uso
 ```javascript
-import { ProjectInfo, Button, Header } from '@proyecto-si889-2025-i-u3-ticona-martinez-perez/ui-components';
+import { ProjectInfo, Button, Header } from '@upt-faing-epis/ui-components';
 
 console.log(ProjectInfo.name);
 ```

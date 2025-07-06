@@ -21,11 +21,11 @@ jobs:
         with:
           node-version: '18'
           registry-url: 'https://npm.pkg.github.com'
-          scope: '@proyecto-si889-2025-i-u3-ticona-martinez-perez'
+          scope: '@upt-faing-epis'
       
       - name: Create .npmrc
         run: |
-          echo "@proyecto-si889-2025-i-u3-ticona-martinez-perez:registry=https://npm.pkg.github.com" > .npmrc
+          echo "@upt-faing-epis:registry=https://npm.pkg.github.com" > .npmrc
           echo "//npm.pkg.github.com/:_authToken=\${NODE_AUTH_TOKEN}" >> .npmrc
       
       - name: Publish package
