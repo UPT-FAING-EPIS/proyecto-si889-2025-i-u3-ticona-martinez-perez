@@ -1,6 +1,6 @@
 {
   "name": "@upt-faing-epis/ui-components",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Componentes UI para el proyecto SI889",
   "main": "index.js",
   "files": [
